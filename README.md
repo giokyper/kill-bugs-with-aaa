@@ -1,3 +1,4 @@
+Something new
 # Unit Testing: Kill bugs with AAA
 ## Description
 This is the project which supports the training about Unit Testing. It's a simple REST API made on top of .NET Core 6 with limited capabilities.
